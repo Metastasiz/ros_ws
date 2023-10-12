@@ -1,0 +1,22 @@
+[1.975s] Invoking command in '/home/mark/ros_ws/src/package01': PYTHONPATH=/home/mark/ros_ws/build/package01/prefix_override:/home/mark/ros_ws/install/package01/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/package01 build --build-base /home/mark/ros_ws/build/package01/build install --record /home/mark/ros_ws/build/package01/install.log --single-version-externally-managed
+[2.374s] running egg_info
+[2.374s] writing ../../build/package01/package01.egg-info/PKG-INFO
+[2.375s] writing dependency_links to ../../build/package01/package01.egg-info/dependency_links.txt
+[2.375s] writing entry points to ../../build/package01/package01.egg-info/entry_points.txt
+[2.376s] writing requirements to ../../build/package01/package01.egg-info/requires.txt
+[2.376s] writing top-level names to ../../build/package01/package01.egg-info/top_level.txt
+[2.380s] reading manifest file '../../build/package01/package01.egg-info/SOURCES.txt'
+[2.381s] adding license file 'LICENSE'
+[2.381s] writing manifest file '../../build/package01/package01.egg-info/SOURCES.txt'
+[2.382s] running build
+[2.382s] running build_py
+[2.382s] running install
+[2.383s] running install_lib
+[2.384s] running install_data
+[2.386s] running install_egg_info
+[2.387s] removing '/home/mark/ros_ws/install/package01/lib/python3.10/site-packages/package01-0.0.0-py3.10.egg-info' (and everything under it)
+[2.388s] Copying ../../build/package01/package01.egg-info to /home/mark/ros_ws/install/package01/lib/python3.10/site-packages/package01-0.0.0-py3.10.egg-info
+[2.389s] running install_scripts
+[2.419s] Installing slam_driver script to /home/mark/ros_ws/install/package01/lib/package01
+[2.419s] writing list of installed files to '/home/mark/ros_ws/build/package01/install.log'
+[2.470s] Invoked command in '/home/mark/ros_ws/src/package01' returned '0': PYTHONPATH=/home/mark/ros_ws/build/package01/prefix_override:/home/mark/ros_ws/install/package01/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/package01 build --build-base /home/mark/ros_ws/build/package01/build install --record /home/mark/ros_ws/build/package01/install.log --single-version-externally-managed

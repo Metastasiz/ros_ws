@@ -1,0 +1,15 @@
+/home/mark/ros_ws/install/default_cpp_/share/ament_index/resource_index/package_run_dependencies/default_cpp_
+/home/mark/ros_ws/install/default_cpp_/share/ament_index/resource_index/parent_prefix_path/default_cpp_
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/environment/ament_prefix_path.sh
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/environment/ament_prefix_path.dsv
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/environment/path.sh
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/environment/path.dsv
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/local_setup.bash
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/local_setup.sh
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/local_setup.zsh
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/local_setup.dsv
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/package.dsv
+/home/mark/ros_ws/install/default_cpp_/share/ament_index/resource_index/packages/default_cpp_
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/cmake/default_cpp_Config.cmake
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/cmake/default_cpp_Config-version.cmake
+/home/mark/ros_ws/install/default_cpp_/share/default_cpp_/package.xml

@@ -1,0 +1,27 @@
+[1.104s] Invoking command in '/home/mark/ros_ws/build/controller': PYTHONPATH=/home/mark/ros_ws/build/controller/prefix_override:/home/mark/ros_ws/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mark/ros_ws/build/controller/build --no-deps install_data
+[1.470s] running develop
+[1.708s] running egg_info
+[1.708s] creating controller.egg-info
+[1.708s] writing controller.egg-info/PKG-INFO
+[1.708s] writing dependency_links to controller.egg-info/dependency_links.txt
+[1.708s] writing entry points to controller.egg-info/entry_points.txt
+[1.709s] writing requirements to controller.egg-info/requires.txt
+[1.709s] writing top-level names to controller.egg-info/top_level.txt
+[1.709s] writing manifest file 'controller.egg-info/SOURCES.txt'
+[1.711s] reading manifest file 'controller.egg-info/SOURCES.txt'
+[1.712s] writing manifest file 'controller.egg-info/SOURCES.txt'
+[1.713s] running build_ext
+[1.713s] Creating /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller.egg-link (link to .)
+[1.714s] Installing publisher script to /home/mark/ros_ws/install/controller/lib/controller
+[1.715s] Installing subscription script to /home/mark/ros_ws/install/controller/lib/controller
+[1.715s] Installing test_node script to /home/mark/ros_ws/install/controller/lib/controller
+[1.715s] Installing turtle_controller script to /home/mark/ros_ws/install/controller/lib/controller
+[1.715s] 
+[1.715s] Installed /home/mark/ros_ws/build/controller
+[1.715s] running install_data
+[1.715s] creating /home/mark/ros_ws/install/controller/share/ament_index
+[1.716s] creating /home/mark/ros_ws/install/controller/share/ament_index/resource_index
+[1.716s] creating /home/mark/ros_ws/install/controller/share/ament_index/resource_index/packages
+[1.716s] copying resource/controller -> /home/mark/ros_ws/install/controller/share/ament_index/resource_index/packages
+[1.716s] copying package.xml -> /home/mark/ros_ws/install/controller/share/controller
+[1.768s] Invoked command in '/home/mark/ros_ws/build/controller' returned '0': PYTHONPATH=/home/mark/ros_ws/build/controller/prefix_override:/home/mark/ros_ws/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mark/ros_ws/build/controller/build --no-deps install_data

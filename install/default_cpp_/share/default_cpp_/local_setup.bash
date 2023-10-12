@@ -1,0 +1,1 @@
+/home/mark/ros_ws/build/default_cpp_/ament_cmake_environment_hooks/local_setup.bash

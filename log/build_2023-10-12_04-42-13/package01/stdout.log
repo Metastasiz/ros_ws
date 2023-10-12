@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing package01.egg-info/PKG-INFO
+writing dependency_links to package01.egg-info/dependency_links.txt
+writing entry points to package01.egg-info/entry_points.txt
+writing requirements to package01.egg-info/requires.txt
+writing top-level names to package01.egg-info/top_level.txt
+reading manifest file 'package01.egg-info/SOURCES.txt'
+writing manifest file 'package01.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mark/ros_ws/install/package01/lib/python3.10/site-packages/package01.egg-link (link to .)
+Installing slam_driver script to /home/mark/ros_ws/install/package01/lib/package01
+
+Installed /home/mark/ros_ws/build/package01
+running install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+slam_driver = package01.slam_driver:main
+

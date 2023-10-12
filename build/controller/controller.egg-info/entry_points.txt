@@ -1,0 +1,6 @@
+[console_scripts]
+publisher = controller.publisher:main
+subscription = controller.subscription:main
+test_node = controller.node1:main
+turtle_controller = controller.TurtleControllerNode:main
+

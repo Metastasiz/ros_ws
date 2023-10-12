@@ -1,0 +1,46 @@
+[2.083s] Invoking command in '/home/mark/ros_ws/build/controller': PYTHONPATH=/home/mark/ros_ws/build/controller/prefix_override:/home/mark/ros_ws/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/mark/ros_ws/build/controller/build
+[2.521s] running develop
+[2.841s] Removing /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller.egg-link (link to .)
+[2.893s] Invoked command in '/home/mark/ros_ws/build/controller' returned '0': PYTHONPATH=/home/mark/ros_ws/build/controller/prefix_override:/home/mark/ros_ws/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/mark/ros_ws/build/controller/build
+[2.896s] Invoking command in '/home/mark/ros_ws/src/controller': PYTHONPATH=/home/mark/ros_ws/build/controller/prefix_override:/home/mark/ros_ws/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/controller build --build-base /home/mark/ros_ws/build/controller/build install --record /home/mark/ros_ws/build/controller/install.log --single-version-externally-managed
+[3.255s] running egg_info
+[3.256s] writing ../../build/controller/controller.egg-info/PKG-INFO
+[3.257s] writing dependency_links to ../../build/controller/controller.egg-info/dependency_links.txt
+[3.257s] writing entry points to ../../build/controller/controller.egg-info/entry_points.txt
+[3.257s] writing requirements to ../../build/controller/controller.egg-info/requires.txt
+[3.257s] writing top-level names to ../../build/controller/controller.egg-info/top_level.txt
+[3.260s] reading manifest file '../../build/controller/controller.egg-info/SOURCES.txt'
+[3.261s] writing manifest file '../../build/controller/controller.egg-info/SOURCES.txt'
+[3.261s] running build
+[3.262s] running build_py
+[3.262s] creating /home/mark/ros_ws/build/controller/build
+[3.262s] creating /home/mark/ros_ws/build/controller/build/lib
+[3.262s] creating /home/mark/ros_ws/build/controller/build/lib/controller
+[3.262s] copying controller/subscription.py -> /home/mark/ros_ws/build/controller/build/lib/controller
+[3.262s] copying controller/node1.py -> /home/mark/ros_ws/build/controller/build/lib/controller
+[3.262s] copying controller/__init__.py -> /home/mark/ros_ws/build/controller/build/lib/controller
+[3.263s] copying controller/publisher.py -> /home/mark/ros_ws/build/controller/build/lib/controller
+[3.263s] copying controller/TurtleControllerNode.py -> /home/mark/ros_ws/build/controller/build/lib/controller
+[3.263s] running install
+[3.263s] running install_lib
+[3.264s] creating /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller
+[3.264s] copying /home/mark/ros_ws/build/controller/build/lib/controller/subscription.py -> /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller
+[3.264s] copying /home/mark/ros_ws/build/controller/build/lib/controller/node1.py -> /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller
+[3.264s] copying /home/mark/ros_ws/build/controller/build/lib/controller/__init__.py -> /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller
+[3.265s] copying /home/mark/ros_ws/build/controller/build/lib/controller/publisher.py -> /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller
+[3.265s] copying /home/mark/ros_ws/build/controller/build/lib/controller/TurtleControllerNode.py -> /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller
+[3.265s] byte-compiling /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller/subscription.py to subscription.cpython-310.pyc
+[3.266s] byte-compiling /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller/node1.py to node1.cpython-310.pyc
+[3.266s] byte-compiling /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller/__init__.py to __init__.cpython-310.pyc
+[3.266s] byte-compiling /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller/publisher.py to publisher.cpython-310.pyc
+[3.267s] byte-compiling /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller/TurtleControllerNode.py to TurtleControllerNode.cpython-310.pyc
+[3.268s] running install_data
+[3.269s] running install_egg_info
+[3.271s] Copying ../../build/controller/controller.egg-info to /home/mark/ros_ws/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info
+[3.272s] running install_scripts
+[3.295s] Installing publisher script to /home/mark/ros_ws/install/controller/lib/controller
+[3.295s] Installing subscription script to /home/mark/ros_ws/install/controller/lib/controller
+[3.296s] Installing test_node script to /home/mark/ros_ws/install/controller/lib/controller
+[3.296s] Installing turtle_controller script to /home/mark/ros_ws/install/controller/lib/controller
+[3.296s] writing list of installed files to '/home/mark/ros_ws/build/controller/install.log'
+[3.339s] Invoked command in '/home/mark/ros_ws/src/controller' returned '0': PYTHONPATH=/home/mark/ros_ws/build/controller/prefix_override:/home/mark/ros_ws/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/controller build --build-base /home/mark/ros_ws/build/controller/build install --record /home/mark/ros_ws/build/controller/install.log --single-version-externally-managed

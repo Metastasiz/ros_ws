@@ -1,0 +1,38 @@
+[1.813s] Invoking command in '/home/mark/ros_ws/src/package01': PYTHONPATH=/home/mark/ros_ws/build/package01/prefix_override:/home/mark/ros_ws/install/package01/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/package01 build --build-base /home/mark/ros_ws/build/package01/build install --record /home/mark/ros_ws/build/package01/install.log --single-version-externally-managed
+[2.227s] running egg_info
+[2.228s] creating ../../build/package01/package01.egg-info
+[2.228s] writing ../../build/package01/package01.egg-info/PKG-INFO
+[2.229s] writing dependency_links to ../../build/package01/package01.egg-info/dependency_links.txt
+[2.229s] writing entry points to ../../build/package01/package01.egg-info/entry_points.txt
+[2.229s] writing requirements to ../../build/package01/package01.egg-info/requires.txt
+[2.229s] writing top-level names to ../../build/package01/package01.egg-info/top_level.txt
+[2.230s] writing manifest file '../../build/package01/package01.egg-info/SOURCES.txt'
+[2.232s] reading manifest file '../../build/package01/package01.egg-info/SOURCES.txt'
+[2.232s] adding license file 'LICENSE'
+[2.233s] writing manifest file '../../build/package01/package01.egg-info/SOURCES.txt'
+[2.233s] running build
+[2.233s] running build_py
+[2.234s] creating /home/mark/ros_ws/build/package01/build
+[2.234s] creating /home/mark/ros_ws/build/package01/build/lib
+[2.234s] creating /home/mark/ros_ws/build/package01/build/lib/package01
+[2.234s] copying package01/slam_driver.py -> /home/mark/ros_ws/build/package01/build/lib/package01
+[2.234s] copying package01/__init__.py -> /home/mark/ros_ws/build/package01/build/lib/package01
+[2.234s] running install
+[2.235s] running install_lib
+[2.235s] creating /home/mark/ros_ws/install/package01/lib/python3.10/site-packages/package01
+[2.236s] copying /home/mark/ros_ws/build/package01/build/lib/package01/slam_driver.py -> /home/mark/ros_ws/install/package01/lib/python3.10/site-packages/package01
+[2.236s] copying /home/mark/ros_ws/build/package01/build/lib/package01/__init__.py -> /home/mark/ros_ws/install/package01/lib/python3.10/site-packages/package01
+[2.236s] byte-compiling /home/mark/ros_ws/install/package01/lib/python3.10/site-packages/package01/slam_driver.py to slam_driver.cpython-310.pyc
+[2.237s] byte-compiling /home/mark/ros_ws/install/package01/lib/python3.10/site-packages/package01/__init__.py to __init__.cpython-310.pyc
+[2.237s] running install_data
+[2.238s] creating /home/mark/ros_ws/install/package01/share/ament_index
+[2.238s] creating /home/mark/ros_ws/install/package01/share/ament_index/resource_index
+[2.238s] creating /home/mark/ros_ws/install/package01/share/ament_index/resource_index/packages
+[2.238s] copying resource/package01 -> /home/mark/ros_ws/install/package01/share/ament_index/resource_index/packages
+[2.239s] copying package.xml -> /home/mark/ros_ws/install/package01/share/package01
+[2.239s] running install_egg_info
+[2.241s] Copying ../../build/package01/package01.egg-info to /home/mark/ros_ws/install/package01/lib/python3.10/site-packages/package01-0.0.0-py3.10.egg-info
+[2.242s] running install_scripts
+[2.271s] Installing slam_driver script to /home/mark/ros_ws/install/package01/lib/package01
+[2.272s] writing list of installed files to '/home/mark/ros_ws/build/package01/install.log'
+[2.319s] Invoked command in '/home/mark/ros_ws/src/package01' returned '0': PYTHONPATH=/home/mark/ros_ws/build/package01/prefix_override:/home/mark/ros_ws/install/package01/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/package01 build --build-base /home/mark/ros_ws/build/package01/build install --record /home/mark/ros_ws/build/package01/install.log --single-version-externally-managed

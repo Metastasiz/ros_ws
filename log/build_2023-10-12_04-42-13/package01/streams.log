@@ -1,0 +1,17 @@
+[1.908s] Invoking command in '/home/mark/ros_ws/build/package01': PYTHONPATH=/home/mark/ros_ws/build/package01/prefix_override:/home/mark/ros_ws/install/package01/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mark/ros_ws/build/package01/build --no-deps install_data
+[2.356s] running develop
+[2.650s] running egg_info
+[2.651s] writing package01.egg-info/PKG-INFO
+[2.651s] writing dependency_links to package01.egg-info/dependency_links.txt
+[2.651s] writing entry points to package01.egg-info/entry_points.txt
+[2.651s] writing requirements to package01.egg-info/requires.txt
+[2.652s] writing top-level names to package01.egg-info/top_level.txt
+[2.654s] reading manifest file 'package01.egg-info/SOURCES.txt'
+[2.655s] writing manifest file 'package01.egg-info/SOURCES.txt'
+[2.657s] running build_ext
+[2.657s] Creating /home/mark/ros_ws/install/package01/lib/python3.10/site-packages/package01.egg-link (link to .)
+[2.658s] Installing slam_driver script to /home/mark/ros_ws/install/package01/lib/package01
+[2.658s] 
+[2.658s] Installed /home/mark/ros_ws/build/package01
+[2.659s] running install_data
+[2.720s] Invoked command in '/home/mark/ros_ws/build/package01' returned '0': PYTHONPATH=/home/mark/ros_ws/build/package01/prefix_override:/home/mark/ros_ws/install/package01/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mark/ros_ws/build/package01/build --no-deps install_data

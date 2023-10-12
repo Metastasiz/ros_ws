@@ -1,0 +1,31 @@
+[0.655s] Invoking command in '/home/mark/ros_ws/build/default_cpp_': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark/ros2_ws/install/controller:/opt/ros/humble /usr/bin/cmake /home/mark/ros_ws/src/default_cpp_ -DCMAKE_INSTALL_PREFIX=/home/mark/ros_ws/install/default_cpp_
+[0.674s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.875s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.890s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.997s] -- Added test 'lint_cmake' to check CMake code style
+[0.998s] -- Added test 'xmllint' to check XML markup files
+[1.001s] -- Configuring done
+[1.007s] -- Generating done
+[1.009s] -- Build files have been written to: /home/mark/ros_ws/build/default_cpp_
+[1.192s] Invoked command in '/home/mark/ros_ws/build/default_cpp_' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark/ros2_ws/install/controller:/opt/ros/humble /usr/bin/cmake /home/mark/ros_ws/src/default_cpp_ -DCMAKE_INSTALL_PREFIX=/home/mark/ros_ws/install/default_cpp_
+[1.195s] Invoking command in '/home/mark/ros_ws/build/default_cpp_': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark/ros2_ws/install/controller:/opt/ros/humble /usr/bin/cmake --build /home/mark/ros_ws/build/default_cpp_ -- -j4 -l4
+[1.269s] Invoked command in '/home/mark/ros_ws/build/default_cpp_' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark/ros2_ws/install/controller:/opt/ros/humble /usr/bin/cmake --build /home/mark/ros_ws/build/default_cpp_ -- -j4 -l4
+[1.331s] Invoking command in '/home/mark/ros_ws/build/default_cpp_': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark/ros2_ws/install/controller:/opt/ros/humble /usr/bin/cmake --install /home/mark/ros_ws/build/default_cpp_
+[1.345s] -- Install configuration: ""
+[1.346s] -- Execute custom install script
+[1.346s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/ament_index/resource_index/package_run_dependencies/default_cpp_
+[1.347s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/ament_index/resource_index/parent_prefix_path/default_cpp_
+[1.347s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/environment/ament_prefix_path.sh
+[1.348s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/environment/ament_prefix_path.dsv
+[1.348s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/environment/path.sh
+[1.349s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/environment/path.dsv
+[1.349s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/local_setup.bash
+[1.349s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/local_setup.sh
+[1.350s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/local_setup.zsh
+[1.350s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/local_setup.dsv
+[1.350s] -- Symlinking: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/package.dsv
+[1.369s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/ament_index/resource_index/packages/default_cpp_
+[1.369s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/cmake/default_cpp_Config.cmake
+[1.369s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/cmake/default_cpp_Config-version.cmake
+[1.370s] -- Up-to-date symlink: /home/mark/ros_ws/install/default_cpp_/share/default_cpp_/package.xml
+[1.375s] Invoked command in '/home/mark/ros_ws/build/default_cpp_' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark/ros2_ws/install/controller:/opt/ros/humble /usr/bin/cmake --install /home/mark/ros_ws/build/default_cpp_
